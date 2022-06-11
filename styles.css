@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Space Mono', sans-serif;
+}
+
+#hero {
+    background-image: url("https://media.giphy.com/media/2wgWwdQ05dAg64Dil6/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: #7B6743;
+    border: none;
+    font-family: 'Space Mono', sans-serif;
+    color: #262623;
+    font-weight: 800;
+}
+
+.highlight {
+    color: red;
+}
+
+h3 {
+    color: red;
+    
+}
+   /*"images/galaxy.webp"*/
